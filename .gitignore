@@ -1,1 +1,4 @@
-
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
